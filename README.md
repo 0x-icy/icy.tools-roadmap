@@ -1,4 +1,4 @@
-# [icy.tools](https://icy.tools) Roadmap
+# icy.tools Roadmap
 
 You can find the roadmap for [icy.tools](https://icy.tools) by going [here](https://github.com/0x-icy/icy.tools-roadmap/projects/1).
 
